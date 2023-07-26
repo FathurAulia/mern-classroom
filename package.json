@@ -1,5 +1,16 @@
 {
   "name": "mern-classroom",
+  "version": "2.0.0",
+  "description": "A MERN stack based online classroom application",
+  "author": "Shama Hoque",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "express",
+    "mongodb",
+    "node",
+    "mern"
+  ],
   "homepage": "https://github.com/shamahoque/mern-classroom",
   "main": "./dist/server.generated.js",
   "scripts": {
